@@ -1,9 +1,3 @@
-@ HyperIMU - ianovir - 2016
-@ Date: Wed Nov 02 09:52:51 PDT 2016
-@ Sensors: K330_3_axis_Accelerometer - K330_Gyroscope_sensor
-@ SamplingTime: 100ms
-
-
 time,x-accel,y-accel,z-accel,x-gyro,y-gyro,z-gyro#
 0,0.0,0.0,0.0,0.0,0.0,0.0#
 1,-5.9873,-7.7931266,-0.7457938,0.0067195175,0.0076358155,-0.082161374#
